@@ -1,0 +1,22 @@
+{
+  "name": "yashdesai-npm-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yddc902/yashdesai-npm-pack.git"
+  },
+  "keywords": [
+    "yashdesai"
+  ],
+  "author": "Yash Desai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yddc902/yashdesai-npm-pack/issues"
+  },
+  "homepage": "https://github.com/yddc902/yashdesai-npm-pack#readme"
+}
